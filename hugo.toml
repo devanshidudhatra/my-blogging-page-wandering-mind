@@ -1,0 +1,72 @@
+baseURL = 'https://wanderingmind.com/'
+languageCode = 'en-us'
+title = 'The Wandering Mind'  
+theme = 'hugo-theme-stack'
+copyright = '© 2025 Devanshi. All Rights Reserved'
+
+# -----------------------------------------------------------
+# SETTINGS FOR A MIXED TOPIC BLOG
+# -----------------------------------------------------------
+[params]
+    mainSections = ['post']
+    featuredImageField = 'image'
+    rssFullContent = true
+    
+    [params.favicon]
+    
+    # Color scheme configuration
+    [params.colorScheme]
+        toggle = true
+        default = "auto"
+    
+    # The sidebar on the left
+    [params.sidebar]
+        emoji = "📚"
+        subtitle = "Exploring History, Mathematics, Space & Nature"
+        
+        [params.sidebar.avatar]
+            enabled = true
+            local = true
+            src = "img/avatar.jpg"
+    
+    # Article configuration
+    [params.article]
+        math = false
+        toc = true
+        readingTime = true
+        
+        [params.article.license]
+            enabled = false
+    
+    # Comments (disabled for now)
+    [params.comments]
+        enabled = false
+    
+    # Widgets configuration
+    [params.widgets]
+        homepage = []
+        page = []
+    
+    # Footer settings
+    [params.footer]
+        since = 2025
+        customText = ""
+
+# -----------------------------------------------------------
+# NAVIGATION MENU
+# -----------------------------------------------------------
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+    [menu.main.params]
+        icon = "home"
+
+[[menu.main]]
+    identifier = "archives"
+    name = "All Posts"
+    url = "/archives/"
+    weight = 2
+    [menu.main.params]
+        icon = "archives"

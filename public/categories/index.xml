@@ -15,6 +15,22 @@
         <guid>http://localhost:1313/categories/introduction/</guid>
         <description></description>
         </item>
+        <item>
+        <title>Archaeology</title>
+        <link>http://localhost:1313/categories/archaeology/</link>
+        <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/archaeology/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>History</title>
+        <link>http://localhost:1313/categories/history/</link>
+        <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/history/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>

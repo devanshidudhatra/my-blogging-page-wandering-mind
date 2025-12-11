@@ -29,6 +29,24 @@
     <loc>http://localhost:1313/post/welcome-to-wandering-mind/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/ancient-india/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/archaeology/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/history/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/indus-valley/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/indus/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mysteries/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url>
 </urlset>

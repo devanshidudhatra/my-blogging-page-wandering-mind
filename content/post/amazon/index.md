@@ -1,7 +1,7 @@
 ---
 title: "Amazon Rainforest: Lungs of the Earth (Complete Guide)"
 description: "A storytelling guide to the Amazon Rainforest, its incredible biodiversity, vital role in the global ecosystem, and the threats it faces today."
-date: 2023-10-1
+date: 2023-10-01
 image: "cover.jpeg"
 categories: ["Environment", "Nature"]
 tags: ["Amazon Rainforest", "Biodiversity", "Climate Change", "Deforestation", "Ecosystem"]

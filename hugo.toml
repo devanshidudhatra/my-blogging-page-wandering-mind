@@ -2,7 +2,7 @@ baseURL = 'https://wanderingmind.com/'
 languageCode = 'en-us'
 title = 'The Wandering Mind'
 theme = 'hugo-theme-stack'
-copyright = '© 2025 Devanshi. All Rights Reserved'
+copyright = 'Devanshi. All Rights Reserved'
 
 # -----------------------------------------------------------
 # GENERAL SETTINGS
@@ -34,16 +34,28 @@ copyright = '© 2025 Devanshi. All Rights Reserved'
         math = true          # Enables Math formulas like LaTeX
         toc = true           # Enables Table of Contents
         readingTime = true
-        license = false
+    
+        [params.article.license]
+            enabled = false
     
     # Comments (Disabled)
     [params.comments]
         enabled = false
     
-    # Widgets (Right side or Bottom)
+    # Widgets configuration (The Right Sidebar / Mobile Menu)
     [params.widgets]
-        homepage = ["search", "categories", "tag_cloud"] # <--- Added Categories Widget
-        page = ["toc"]
+        # FIX: We use { type = "..." } instead of just "..."
+        homepage = [
+            { type = "search" },
+            { type = "archives" },
+            { type = "categories" },
+            { type = "tag-cloud" }
+        ]
+        
+        # FIX: Do the same for the page widgets
+        page = [
+            { type = "toc" }
+        ]
 
     # Footer
     [params.footer]
@@ -66,7 +78,7 @@ copyright = '© 2025 Devanshi. All Rights Reserved'
     url = "/archives/"
     weight = 2
     [menu.main.params]
-        icon = "archive"
+        icon = "archives"
 
 [[menu.main]]
     identifier = "categories"    # <--- Added Categories Menu Item
@@ -74,7 +86,7 @@ copyright = '© 2025 Devanshi. All Rights Reserved'
     url = "/categories/"
     weight = 3
     [menu.main.params]
-        icon = "list"           # Standard icon for lists
+        icon = "categories"           # Standard icon for lists
 
 [[menu.main]]
     identifier = "search"

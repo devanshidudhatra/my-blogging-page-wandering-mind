@@ -6,14 +6,14 @@
         <description>Recent content in Cybersecurity on The Wandering Mind</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <copyright>© 2025 Devanshi. All Rights Reserved</copyright>
-        <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Devanshi. All Rights Reserved</copyright>
+        <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>How Cryptography Works: Mathematics That Protects Your Data</title>
         <link>http://localhost:1313/post/crypto/</link>
-        <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/post/crypto/</guid>
-        <description>&lt;img src="http://localhost:1313/cryptography-math.jpg" alt="Featured image of post How Cryptography Works: Mathematics That Protects Your Data" /&gt;&lt;h2 id=&#34;how-cryptography-works-mathematics-that-protects-your-data&#34;&gt;&lt;strong&gt;How Cryptography Works: Mathematics That Protects Your Data&lt;/strong&gt;
+        <description>&lt;img src="http://localhost:1313/post/crypto/cover.jpg" alt="Featured image of post How Cryptography Works: Mathematics That Protects Your Data" /&gt;&lt;h2 id=&#34;how-cryptography-works-mathematics-that-protects-your-data&#34;&gt;&lt;strong&gt;How Cryptography Works: Mathematics That Protects Your Data&lt;/strong&gt;
 &lt;/h2&gt;&lt;p&gt;Every time you send a WhatsApp message, make an online payment, log in to Gmail, or scroll through Instagram—
 &lt;strong&gt;mathematics silently guards your privacy.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This invisible guardian is called &lt;strong&gt;cryptography&lt;/strong&gt;.
@@ -162,7 +162,6 @@ It is &lt;strong&gt;trust&lt;/strong&gt;, &lt;strong&gt;privacy&lt;/strong&gt;, 
 &lt;p&gt;Cryptography is the reason your digital world doesn’t collapse into chaos.&lt;/p&gt;
 &lt;p&gt;It is the &lt;strong&gt;invisible hero&lt;/strong&gt; of the internet—
 quiet, powerful, and always working.&lt;/p&gt;
-&lt;hr&gt;
 </description>
         </item>
         

@@ -6,7 +6,7 @@
         <description>Recent content in Math on The Wandering Mind</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <copyright>© 2025 Devanshi. All Rights Reserved</copyright>
+        <copyright>Devanshi. All Rights Reserved</copyright>
         <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Welcome to The Wandering Mind</title>
         <link>http://localhost:1313/post/welcome-to-wandering-mind/</link>
@@ -21,6 +21,163 @@
 &lt;li&gt;&lt;strong&gt;Space:&lt;/strong&gt; The final frontier.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Stay tuned for more!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>How Cryptography Works: Mathematics That Protects Your Data</title>
+        <link>http://localhost:1313/post/crypto/</link>
+        <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/crypto/</guid>
+        <description>&lt;img src="http://localhost:1313/post/crypto/cover.jpg" alt="Featured image of post How Cryptography Works: Mathematics That Protects Your Data" /&gt;&lt;h2 id=&#34;how-cryptography-works-mathematics-that-protects-your-data&#34;&gt;&lt;strong&gt;How Cryptography Works: Mathematics That Protects Your Data&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Every time you send a WhatsApp message, make an online payment, log in to Gmail, or scroll through Instagram—
+&lt;strong&gt;mathematics silently guards your privacy.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This invisible guardian is called &lt;strong&gt;cryptography&lt;/strong&gt;.
+It’s the ancient science of secrets, now transformed into the backbone of modern digital life.&lt;/p&gt;
+&lt;p&gt;Let’s decode the story of how cryptography actually works.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-from-secret-messages-to-digital-security&#34;&gt;&lt;strong&gt;1. From Secret Messages to Digital Security&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Cryptography began with kings and spies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Julius Caesar used a &lt;strong&gt;shift cipher&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Ancient Indians used coded messages in &lt;strong&gt;Kautilya’s Arthashastra&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Greeks hid messages inside wax tablets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But today, cryptography protects something far bigger:
+&lt;strong&gt;your identity, your money, your passwords, your conversations.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-the-two-pillars-of-cryptography&#34;&gt;&lt;strong&gt;2. The Two Pillars of Cryptography&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Modern cryptography uses two main systems:&lt;/p&gt;
+&lt;h3 id=&#34;1-symmetric-encryption&#34;&gt;&lt;strong&gt;1. Symmetric Encryption&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;One key is used for both &lt;strong&gt;locking&lt;/strong&gt; (encryption) and &lt;strong&gt;unlocking&lt;/strong&gt; (decryption).
+Fast and used for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WhatsApp chat encryption&lt;/li&gt;
+&lt;li&gt;File encryption&lt;/li&gt;
+&lt;li&gt;WiFi (WPA2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Examples: &lt;strong&gt;AES, DES&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-asymmetric-encryption&#34;&gt;&lt;strong&gt;2. Asymmetric Encryption&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Two keys are used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Public Key&lt;/strong&gt; → shared with everyone&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Private Key&lt;/strong&gt; → kept secret&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You encrypt with one and decrypt with the other.
+Used for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Digital signatures&lt;/li&gt;
+&lt;li&gt;Secure browsing (HTTPS)&lt;/li&gt;
+&lt;li&gt;Online payments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Examples: &lt;strong&gt;RSA, ECC&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;3-the-math-behind-encryption&#34;&gt;&lt;strong&gt;3. The Math Behind Encryption&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Cryptography relies on problems that are &lt;strong&gt;easy to do but almost impossible to undo&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;example&#34;&gt;&lt;strong&gt;Example:&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Multiplying two big prime numbers is easy.
+But figuring out the original primes from the product is almost impossible.&lt;/p&gt;
+&lt;p&gt;This “one-way math” protects your data.&lt;/p&gt;
+&lt;h3 id=&#34;some-core-mathematical-ideas&#34;&gt;Some core mathematical ideas:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Prime numbers&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modular arithmetic&lt;/strong&gt; (clock mathematics)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Elliptic curves&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hash functions&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Together, they create digital locks no hacker can easily break.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;4-hashing-the-digital-fingerprint&#34;&gt;&lt;strong&gt;4. Hashing: The Digital Fingerprint&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;A &lt;strong&gt;hash&lt;/strong&gt; converts any data (password, message, file) into:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A fixed-length value&lt;/li&gt;
+&lt;li&gt;Unique&lt;/li&gt;
+&lt;li&gt;Irreversible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Examples: &lt;strong&gt;SHA-256, SHA-3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Why is it important?&lt;/p&gt;
+&lt;p&gt;Because websites never store your actual password—
+they store its &lt;strong&gt;hash&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Even if hackers steal the database,
+they see only meaningless strings.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;5-how-https-protects-you-every-day&#34;&gt;&lt;strong&gt;5. How HTTPS Protects You Every Day&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Whenever you see a &lt;strong&gt;lock symbol&lt;/strong&gt; in your browser:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your device uses &lt;strong&gt;public key cryptography&lt;/strong&gt; to exchange secrets&lt;/li&gt;
+&lt;li&gt;Switches to &lt;strong&gt;symmetric encryption&lt;/strong&gt; for fast communication&lt;/li&gt;
+&lt;li&gt;Ensures no hacker between you and the server can read anything&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Banking, shopping, and email depend on this handshake.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;6-end-to-end-encryption-your-messages-stay-yours&#34;&gt;&lt;strong&gt;6. End-to-End Encryption: Your Messages Stay Yours&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Apps like &lt;strong&gt;WhatsApp, Signal, Telegram&lt;/strong&gt; use the &lt;strong&gt;Signal Protocol&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;What it means:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Only you and the receiver have the keys&lt;/li&gt;
+&lt;li&gt;Even WhatsApp cannot read your messages&lt;/li&gt;
+&lt;li&gt;If intercepted, the data looks like random noise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your privacy is protected by math—not trust.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;7-digital-signatures-proving-you-are-you&#34;&gt;&lt;strong&gt;7. Digital Signatures: Proving “You Are You”&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Digital signatures ensure three things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Authenticity&lt;/strong&gt; – you are the real sender&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrity&lt;/strong&gt; – message wasn’t changed&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Non-repudiation&lt;/strong&gt; – you can’t deny sending it&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Used in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aadhaar&lt;/li&gt;
+&lt;li&gt;e-Mandates&lt;/li&gt;
+&lt;li&gt;UPI&lt;/li&gt;
+&lt;li&gt;Legal documents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It&amp;rsquo;s your digital handshake powered by cryptography.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;8-cryptography-in-the-financial-world&#34;&gt;&lt;strong&gt;8. Cryptography in the Financial World&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Your money moves safely because of encryption:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;UPI transactions&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Card payments (Visa/Mastercard)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Online banking&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crypto wallets&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blockchain&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Blockchain itself is built on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hashing&lt;/li&gt;
+&lt;li&gt;Merkle trees&lt;/li&gt;
+&lt;li&gt;Public-private keys&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Math keeps global finance stable.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;9-the-future-post-quantum-cryptography&#34;&gt;&lt;strong&gt;9. The Future: Post-Quantum Cryptography&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Quantum computers may one day crack today’s encryption.
+That’s why scientists are building &lt;strong&gt;quantum-proof algorithms&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The next generation of cryptography will use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lattice mathematics&lt;/li&gt;
+&lt;li&gt;Quantum randomness&lt;/li&gt;
+&lt;li&gt;Error-correcting codes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The math gets harder, the locks get stronger.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;10-conclusion-the-silent-shield-protecting-your-digital-life&#34;&gt;&lt;strong&gt;10. Conclusion: The Silent Shield Protecting Your Digital Life&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Cryptography is not just math.
+It is &lt;strong&gt;trust&lt;/strong&gt;, &lt;strong&gt;privacy&lt;/strong&gt;, &lt;strong&gt;freedom&lt;/strong&gt;, and &lt;strong&gt;safety&lt;/strong&gt;—compressed into code.&lt;/p&gt;
+&lt;p&gt;Every time you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Send a message&lt;/li&gt;
+&lt;li&gt;Make a payment&lt;/li&gt;
+&lt;li&gt;Log into a website&lt;/li&gt;
+&lt;li&gt;Save your password&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A mathematical shield rises around you.&lt;/p&gt;
+&lt;p&gt;Cryptography is the reason your digital world doesn’t collapse into chaos.&lt;/p&gt;
+&lt;p&gt;It is the &lt;strong&gt;invisible hero&lt;/strong&gt; of the internet—
+quiet, powerful, and always working.&lt;/p&gt;
 </description>
         </item>
         

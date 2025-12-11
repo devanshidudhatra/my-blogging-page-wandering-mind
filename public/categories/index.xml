@@ -6,7 +6,7 @@
         <description>Recent content in Categories on The Wandering Mind</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <copyright>© 2025 Devanshi. All Rights Reserved</copyright>
+        <copyright>Devanshi. All Rights Reserved</copyright>
         <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Introduction</title>
         <link>http://localhost:1313/categories/introduction/</link>
@@ -29,6 +29,222 @@
         <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/history/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Mathematics</title>
+        <link>http://localhost:1313/categories/mathematics/</link>
+        <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/mathematics/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Environment</title>
+        <link>http://localhost:1313/categories/environment/</link>
+        <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/environment/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Marine Life</title>
+        <link>http://localhost:1313/categories/marine-life/</link>
+        <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/marine-life/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Women Leaders</title>
+        <link>http://localhost:1313/categories/women-leaders/</link>
+        <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/women-leaders/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Architecture</title>
+        <link>http://localhost:1313/categories/architecture/</link>
+        <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/architecture/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Culture</title>
+        <link>http://localhost:1313/categories/culture/</link>
+        <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/culture/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Astronomy</title>
+        <link>http://localhost:1313/categories/astronomy/</link>
+        <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/astronomy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Space</title>
+        <link>http://localhost:1313/categories/space/</link>
+        <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/space/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Leadership</title>
+        <link>http://localhost:1313/categories/leadership/</link>
+        <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/leadership/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Economics</title>
+        <link>http://localhost:1313/categories/economics/</link>
+        <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/economics/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Trade</title>
+        <link>http://localhost:1313/categories/trade/</link>
+        <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/trade/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Military</title>
+        <link>http://localhost:1313/categories/military/</link>
+        <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/military/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Nature</title>
+        <link>http://localhost:1313/categories/nature/</link>
+        <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/nature/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Society</title>
+        <link>http://localhost:1313/categories/society/</link>
+        <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/society/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Ancient India</title>
+        <link>http://localhost:1313/categories/ancient-india/</link>
+        <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/ancient-india/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Warfare</title>
+        <link>http://localhost:1313/categories/warfare/</link>
+        <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/warfare/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Finance</title>
+        <link>http://localhost:1313/categories/finance/</link>
+        <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/finance/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Science</title>
+        <link>http://localhost:1313/categories/science/</link>
+        <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/science/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Cybersecurity</title>
+        <link>http://localhost:1313/categories/cybersecurity/</link>
+        <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/cybersecurity/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Technology</title>
+        <link>http://localhost:1313/categories/technology/</link>
+        <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/technology/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Wildlife</title>
+        <link>http://localhost:1313/categories/wildlife/</link>
+        <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/wildlife/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Indian Royals</title>
+        <link>http://localhost:1313/categories/indian-royals/</link>
+        <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/indian-royals/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Indian Kingdoms</title>
+        <link>http://localhost:1313/categories/indian-kingdoms/</link>
+        <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/indian-kingdoms/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Economy</title>
+        <link>http://localhost:1313/categories/economy/</link>
+        <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/economy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Language</title>
+        <link>http://localhost:1313/categories/language/</link>
+        <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/language/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Maritime</title>
+        <link>http://localhost:1313/categories/maritime/</link>
+        <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/maritime/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Social Practices</title>
+        <link>http://localhost:1313/categories/social-practices/</link>
+        <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/social-practices/</guid>
         <description></description>
         </item>
         

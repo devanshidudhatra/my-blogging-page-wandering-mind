@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="The captivating story of the Poincaré Conjecture, the only solved Clay Millennium Problem, and how Grigori Perelman revolutionized mathematics.">
+<title>Poincaré Conjecture: The Only Solved Millennium Problem</title>
+
+<link rel='canonical' href='http://localhost:1313/post/poincare/'>
+
+<link rel="stylesheet" href="/scss/style.min.b0e76e98cdd4f7082d1fc36f7af7e0843a81201db2197c03ca426751dc923735.css"><meta property='og:title' content="Poincaré Conjecture: The Only Solved Millennium Problem">
+<meta property='og:description' content="The captivating story of the Poincaré Conjecture, the only solved Clay Millennium Problem, and how Grigori Perelman revolutionized mathematics.">
+<meta property='og:url' content='http://localhost:1313/post/poincare/'>
+<meta property='og:site_name' content='The Wandering Mind'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='Poincaré Conjecture' /><meta property='article:tag' content='Topology' /><meta property='article:tag' content='Grigori Perelman' /><meta property='article:tag' content='Millennium Problems' /><meta property='article:published_time' content='2025-12-11T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-12-11T00:00:00&#43;00:00'/><meta property='og:image' content='http://localhost:1313/poincare-conjecture.jpg' />
+<meta name="twitter:title" content="Poincaré Conjecture: The Only Solved Millennium Problem">
+<meta name="twitter:description" content="The captivating story of the Poincaré Conjecture, the only solved Clay Millennium Problem, and how Grigori Perelman revolutionized mathematics."><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='http://localhost:1313/poincare-conjecture.jpg' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu_5dad06c4d499cf79.jpg" width="300"
+                            height="385" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">📚</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">The Wandering Mind</a></h1>
+            <h2 class="site-description">Exploring History, Mathematics, Space &amp; Nature</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>All Posts</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/post/poincare/">
+                
+                    <img src="/poincare-conjecture.jpg" loading="lazy" alt="Featured image of post Poincaré Conjecture: The Only Solved Millennium Problem" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/mathematics/" >
+                Mathematics
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/poincare/">Poincaré Conjecture: The Only Solved Millennium Problem</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            The captivating story of the Poincaré Conjecture, the only solved Clay Millennium Problem, and how Grigori Perelman revolutionized mathematics.
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published" datetime='2025-12-11T00:00:00Z'>Dec 11, 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    3 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="poincaré-conjecture-the-only-solved-millennium-problem">Poincaré Conjecture: The Only Solved Millennium Problem
+</h2><p>Mathematics is full of mysteries, but some are truly legendary.<br>
+The <strong>Poincaré Conjecture</strong> was one of the most famous unsolved problems of the 20th century.</p>
+<p>It’s part of the <strong>Clay Mathematics Institute’s Millennium Problems</strong>—seven problems selected as the hardest and most important in the world.</p>
+<p>While six remain unsolved, the Poincaré Conjecture is <strong>the only one ever solved</strong>, in one of the most dramatic and mysterious stories in mathematics.</p>
+<p>Let’s explore this tale.</p>
+<hr>
+<h2 id="1-the-problem-understanding-3d-shapes">1. <strong>The Problem: Understanding 3D Shapes</strong>
+</h2><p>Henri Poincaré, a French mathematician, proposed the conjecture in <strong>1904</strong>.</p>
+<p>It asks a deceptively simple question:</p>
+<blockquote>
+<p><strong>If a 3-dimensional shape is “simply connected” and closed, is it equivalent to a 3D sphere?</strong></p>
+</blockquote>
+<p>Translated:</p>
+<ul>
+<li>Simply connected → no holes, loops can be shrunk to a point</li>
+<li>Closed → finite, with no edges</li>
+<li>Equivalent to a sphere → can be deformed into a 3D sphere without tearing</li>
+</ul>
+<p>In 2 dimensions, this is obvious: any closed, hole-free shape is like a circle.<br>
+But in 3D? That’s a huge leap—and nobody knew the answer for nearly a century.</p>
+<hr>
+<h2 id="2-why-it-took-so-long">2. <strong>Why It Took So Long</strong>
+</h2><p>Topology, the study of shapes, was young in the early 1900s.</p>
+<ul>
+<li>3D spaces are tricky</li>
+<li>Visualizing them is almost impossible</li>
+<li>Traditional methods of proof didn’t work</li>
+</ul>
+<p>Mathematicians tried for decades, slowly understanding higher-dimensional analogues:</p>
+<ul>
+<li>The <strong>generalized Poincaré Conjecture</strong> was solved in dimensions 5+ by Smale (1960s)</li>
+<li>In 4 dimensions, Michael Freedman solved it in 1982</li>
+<li>But <strong>3 dimensions</strong> remained elusive</li>
+</ul>
+<p>It became the holy grail of geometric topology.</p>
+<hr>
+<h2 id="3-enter-grigori-perelman">3. <strong>Enter Grigori Perelman</strong>
+</h2><p>In 2002–2003, a relatively unknown Russian mathematician, <strong>Grigori Perelman</strong>, published a series of papers on arXiv.</p>
+<p>His approach? Using <strong>Richard Hamilton’s Ricci flow</strong>—a way to “smooth out” a shape over time.</p>
+<p>Perelman showed that by carefully analyzing how shapes evolve under Ricci flow, he could prove:</p>
+<blockquote>
+<p>Every simply connected, closed 3D manifold is homeomorphic to a 3-sphere.</p>
+</blockquote>
+<p>The Poincaré Conjecture was solved.</p>
+<hr>
+<h2 id="4-the-world-reacts">4. <strong>The World Reacts</strong>
+</h2><p>Perelman’s papers were dense, revolutionary, and unconventional:</p>
+<ul>
+<li>He refused traditional publication</li>
+<li>He worked in isolation</li>
+<li>He didn’t attend conferences or claim prizes</li>
+</ul>
+<p>The mathematics world was stunned.<br>
+Over the next few years, experts verified his work. Every detail checked out.</p>
+<p>By <strong>2006</strong>, it was widely accepted:<br>
+<strong>the Poincaré Conjecture was finally solved.</strong></p>
+<hr>
+<h2 id="5-the-prizes-he-declined">5. <strong>The Prizes He Declined</strong>
+</h2><p>Perelman was awarded:</p>
+<ul>
+<li>The <strong>Fields Medal</strong> (2006) – the “Nobel of Mathematics”</li>
+<li>The <strong>Clay Millennium Prize</strong> ($1 million, 2000)</li>
+</ul>
+<p>He refused both.</p>
+<p>He said:</p>
+<blockquote>
+<p>“I am not interested in money or fame. I have moved on to other things.”</p>
+</blockquote>
+<p>Perelman’s story became a legend: a mathematician who solved a 100-year-old problem and walked away from glory.</p>
+<hr>
+<h2 id="6-why-it-matters">6. <strong>Why It Matters</strong>
+</h2><p>The Poincaré Conjecture isn’t just a puzzle—it’s a cornerstone of <strong>3D topology</strong>:</p>
+<ul>
+<li>Shapes in 3D can now be classified more rigorously</li>
+<li>The proof inspired new methods in geometric analysis</li>
+<li>It influenced physics, particularly in understanding 3D spaces and manifolds in cosmology</li>
+</ul>
+<p>It showed how pure mathematics can reveal hidden structures in our universe.</p>
+<hr>
+<h2 id="conclusion-a-century-long-mystery-finally-resolved">Conclusion: A Century-Long Mystery Finally Resolved
+</h2><p>The Poincaré Conjecture is a story of persistence, brilliance, and mystery:</p>
+<ul>
+<li>Formulated in 1904 by Poincaré</li>
+<li>Challenged generations of mathematicians</li>
+<li>Finally solved by Perelman in 2003</li>
+</ul>
+<p>It’s a reminder that mathematics can be <strong>beautiful, enigmatic, and deeply human</strong>.</p>
+<p>One simple question about shapes transformed the field of topology forever—and gave the world one of its greatest mathematical legends.</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/poincar%C3%A9-conjecture/">Poincaré Conjecture</a>
+        
+            <a href="/tags/topology/">Topology</a>
+        
+            <a href="/tags/grigori-perelman/">Grigori Perelman</a>
+        
+            <a href="/tags/millennium-problems/">Millennium Problems</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/post/hodge/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="/hodge-conjecture.jpg" loading="lazy" data-key="" data-hash="/hodge-conjecture.jpg"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Hodge Conjecture: Geometry&#39;s Greatest Unsolved Problem</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/post/naiver/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="/navier-stokes.jpg" loading="lazy" data-key="" data-hash="/navier-stokes.jpg"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Navier-Stokes Equations: Why We Can&#39;t Predict Turbulence</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 © 2025 Devanshi. All Rights Reserved
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.32.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.d02a572105c74ce31ce409d80ef12d08147d4f6f2264a4cef4c6224915351b1e.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

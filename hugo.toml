@@ -1,11 +1,11 @@
 baseURL = 'https://wanderingmind.com/'
 languageCode = 'en-us'
-title = 'The Wandering Mind'  
+title = 'The Wandering Mind'
 theme = 'hugo-theme-stack'
 copyright = '© 2025 Devanshi. All Rights Reserved'
 
 # -----------------------------------------------------------
-# SETTINGS FOR A MIXED TOPIC BLOG
+# GENERAL SETTINGS
 # -----------------------------------------------------------
 [params]
     mainSections = ['post']
@@ -14,12 +14,12 @@ copyright = '© 2025 Devanshi. All Rights Reserved'
     
     [params.favicon]
     
-    # Color scheme configuration
+    # Color scheme (Auto switches between dark/light mode)
     [params.colorScheme]
         toggle = true
         default = "auto"
     
-    # The sidebar on the left
+    # The Sidebar (Left side)
     [params.sidebar]
         emoji = "📚"
         subtitle = "Exploring History, Mathematics, Space & Nature"
@@ -27,30 +27,27 @@ copyright = '© 2025 Devanshi. All Rights Reserved'
         [params.sidebar.avatar]
             enabled = true
             local = true
-            src = "img/avatar.jpg"
+            src = "img/avatar.jpg"  # Ensure file is at: assets/img/avatar.jpg
     
-    # Article configuration
+    # Article Settings (Essential for your Math posts)
     [params.article]
-        math = false
-        toc = true
+        math = true          # Enables Math formulas like LaTeX
+        toc = true           # Enables Table of Contents
         readingTime = true
-        
-        [params.article.license]
-            enabled = false
+        license = false
     
-    # Comments (disabled for now)
+    # Comments (Disabled)
     [params.comments]
         enabled = false
     
-    # Widgets configuration
+    # Widgets (Right side or Bottom)
     [params.widgets]
-        homepage = []
-        page = []
-    
-    # Footer settings
+        homepage = ["search", "categories", "tag_cloud"] # <--- Added Categories Widget
+        page = ["toc"]
+
+    # Footer
     [params.footer]
         since = 2025
-        customText = ""
 
 # -----------------------------------------------------------
 # NAVIGATION MENU
@@ -69,4 +66,20 @@ copyright = '© 2025 Devanshi. All Rights Reserved'
     url = "/archives/"
     weight = 2
     [menu.main.params]
-        icon = "archives"
+        icon = "archive"
+
+[[menu.main]]
+    identifier = "categories"    # <--- Added Categories Menu Item
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+    [menu.main.params]
+        icon = "list"           # Standard icon for lists
+
+[[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 4
+    [menu.main.params]
+        icon = "search"

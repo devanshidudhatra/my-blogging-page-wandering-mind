@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Andrew Wiles on The Wandering Mind</title>
+        <link>http://localhost:1313/tags/andrew-wiles/</link>
+        <description>Recent content in Andrew Wiles on The Wandering Mind</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>© 2025 Devanshi. All Rights Reserved</copyright>
+        <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/andrew-wiles/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fermat&#39;s Last Theorem: 358 Years to Solve (Complete Story)</title>
+        <link>http://localhost:1313/post/fermat/</link>
+        <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/fermat/</guid>
+        <description>&lt;img src="http://localhost:1313/fermat-last-theorem.jpg" alt="Featured image of post Fermat&#39;s Last Theorem: 358 Years to Solve (Complete Story)" /&gt;&lt;h2 id=&#34;fermats-last-theorem-358-years-to-solve-complete-story&#34;&gt;Fermat&amp;rsquo;s Last Theorem: 358 Years to Solve (Complete Story)
+&lt;/h2&gt;&lt;p&gt;In 1637, a French lawyer named &lt;strong&gt;Pierre de Fermat&lt;/strong&gt; casually scribbled a note in the margin of a book.&lt;br&gt;
+It read:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I have discovered a truly marvelous proof of this proposition,&lt;br&gt;
+which this margin is too narrow to contain.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That “marvelous proof” became one of the most famous mathematical mysteries in history:&lt;br&gt;
+&lt;strong&gt;Fermat’s Last Theorem&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;For &lt;strong&gt;358 years&lt;/strong&gt;, this simple-looking statement defeated the world’s greatest minds.&lt;br&gt;
+It became a legend—equal parts genius, obsession, heartbreak, and triumph.&lt;/p&gt;
+&lt;p&gt;Here is the complete, cinematic story.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-the-mysterious-margin-note-1637&#34;&gt;1. &lt;strong&gt;The Mysterious Margin Note (1637)&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Fermat wasn’t a full-time mathematician.&lt;br&gt;
+He was a lawyer who did math for fun—&lt;br&gt;
+yet he kept producing theorems that shaped the future of number theory.&lt;/p&gt;
+&lt;p&gt;His famous claim:&lt;/p&gt;
+&lt;h3 id=&#34;there-are-no-whole-number-solutions-x-y-z-for-the-equation&#34;&gt;**There are no whole-number solutions (x, y, z) for the equation
+&lt;/h3&gt;&lt;p&gt;xⁿ + yⁿ = zⁿ&lt;br&gt;
+when n &amp;gt; 2.**&lt;/p&gt;
+&lt;p&gt;For n = 2 → Pythagoras gives infinite solutions (like 3² + 4² = 5²).&lt;br&gt;
+But for n = 3, 4, 5…?&lt;br&gt;
+Fermat said: impossible.&lt;/p&gt;
+&lt;p&gt;He didn’t give the proof.&lt;br&gt;
+He never published anything.&lt;br&gt;
+All we had was that teasing note.&lt;/p&gt;
+&lt;p&gt;That was enough to haunt mathematicians for centuries.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-generations-of-failure-17th20th-century&#34;&gt;2. &lt;strong&gt;Generations of Failure (17th–20th Century)&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;After Fermat’s death, the hunt began.&lt;/p&gt;
+&lt;h3 id=&#34;brilliant-mathematicians-tried&#34;&gt;Brilliant mathematicians tried:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Euler&lt;/li&gt;
+&lt;li&gt;Gauss&lt;/li&gt;
+&lt;li&gt;Dirichlet&lt;/li&gt;
+&lt;li&gt;Legendre&lt;/li&gt;
+&lt;li&gt;Kummer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;They proved special cases:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Euler solved n = 3&lt;/li&gt;
+&lt;li&gt;Fermat himself solved n = 4&lt;/li&gt;
+&lt;li&gt;Sophie Germain proved the theorem for infinitely many primes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yet the general case remained unsolved.&lt;/p&gt;
+&lt;p&gt;The more people failed, the more mysterious the theorem became.&lt;/p&gt;
+&lt;p&gt;Some even wondered:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Did Fermat really have a proof?&lt;br&gt;
+Or was he bluffing?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The great mathematical ghost story had begun.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;3-a-new-era-connecting-number-theory-to-geometry&#34;&gt;3. &lt;strong&gt;A New Era: Connecting Number Theory to Geometry&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;In the 20th century, mathematicians discovered something astonishing:&lt;/p&gt;
+&lt;p&gt;Fermat’s equation was mysteriously linked to &lt;strong&gt;elliptic curves&lt;/strong&gt;—equations of the form:&lt;/p&gt;
+&lt;h3 id=&#34;y--x--ax--b&#34;&gt;y² = x³ + ax + b
+&lt;/h3&gt;&lt;p&gt;These curves were connected to a grand mathematical project:&lt;br&gt;
+the &lt;strong&gt;Taniyama–Shimura–Weil Conjecture&lt;/strong&gt; (later called the Modularity Theorem).&lt;/p&gt;
+&lt;p&gt;It stated:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;All elliptic curves are modular.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This wasn’t about Fermat at all.&lt;br&gt;
+It was about deep structures underlying numbers.&lt;/p&gt;
+&lt;p&gt;But in the 1980s, mathematician &lt;strong&gt;Gerd Faltings&lt;/strong&gt; proved something shocking:&lt;/p&gt;
+&lt;h3 id=&#34;if-the-modularity-conjecture-is-true-for-a-special-kind-of-elliptic-curve-called-semistable-curves&#34;&gt;If the Modularity Conjecture is true for a special kind of elliptic curve (called semistable curves),
+&lt;/h3&gt;&lt;p&gt;then &lt;strong&gt;Fermat’s Last Theorem must also be true&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Suddenly, Fermat’s puzzle merged into a far bigger universe.&lt;/p&gt;
+&lt;p&gt;The path to solving it appeared—&lt;br&gt;
+but it was steep, dangerous, and would take a genius to climb.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;4-enter-andrew-wiles-a-childhood-obsession&#34;&gt;4. &lt;strong&gt;Enter Andrew Wiles: A Childhood Obsession&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;When &lt;strong&gt;Andrew Wiles&lt;/strong&gt; was 10 years old, he discovered Fermat’s Last Theorem in a library book.&lt;/p&gt;
+&lt;p&gt;He later said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“It looked so simple. I knew I had to solve it.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This childhood fascination never left him.&lt;/p&gt;
+&lt;p&gt;In 1986, when he was already a mathematician at Princeton, Wiles heard about the link between Fermat and the Modularity Conjecture.&lt;/p&gt;
+&lt;p&gt;It felt like destiny.&lt;/p&gt;
+&lt;p&gt;He decided to attempt what everyone else feared.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;5-seven-years-in-secrecy&#34;&gt;5. &lt;strong&gt;Seven Years in Secrecy&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Wiles made a radical decision:&lt;/p&gt;
+&lt;h3 id=&#34;he-would-work-on-the-proof-in-complete-secrecy&#34;&gt;He would work on the proof &lt;em&gt;in complete secrecy&lt;/em&gt;.
+&lt;/h3&gt;&lt;p&gt;No conferences.&lt;br&gt;
+No discussions.&lt;br&gt;
+Not even colleagues knew.&lt;/p&gt;
+&lt;p&gt;For &lt;strong&gt;seven years&lt;/strong&gt;, he locked himself away:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;spending mornings in his study&lt;/li&gt;
+&lt;li&gt;writing pages of equations&lt;/li&gt;
+&lt;li&gt;discarding them&lt;/li&gt;
+&lt;li&gt;trying again&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;He worked with a singular obsession.&lt;/p&gt;
+&lt;p&gt;By 1993, he believed he had found the solution.&lt;/p&gt;
+&lt;p&gt;The mathematical world held its breath.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;6-the-triumph-and-the-disaster&#34;&gt;6. &lt;strong&gt;The Triumph… and the Disaster&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;In June 1993, Wiles presented his proof in three legendary lectures at Cambridge University.&lt;/p&gt;
+&lt;p&gt;At the end, he casually stated:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I think I’ll stop here.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The room erupted.&lt;br&gt;
+Newspapers across the world announced:&lt;/p&gt;
+&lt;h3 id=&#34;fermats-last-theorem-finally-solved&#34;&gt;“Fermat’s Last Theorem Finally Solved!”
+&lt;/h3&gt;&lt;p&gt;But then—the nightmare.&lt;/p&gt;
+&lt;p&gt;A critical flaw was found in the proof.&lt;/p&gt;
+&lt;p&gt;Months passed.&lt;br&gt;
+Attempts failed.&lt;br&gt;
+Wiles was devastated.&lt;/p&gt;
+&lt;p&gt;He later said:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“It was the darkest period of my life.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;His life’s dream was slipping away.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;7-the-final-breakthrough-1994&#34;&gt;7. &lt;strong&gt;The Final Breakthrough (1994)&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;In a moment of inspiration—almost like a scene from a movie—&lt;br&gt;
+Wiles realized that a technique he had once abandoned could fix the proof.&lt;/p&gt;
+&lt;p&gt;Working with his student Richard Taylor, he patched the problem.&lt;/p&gt;
+&lt;p&gt;On &lt;strong&gt;September 19, 1994&lt;/strong&gt;, the corrected proof was complete.&lt;/p&gt;
+&lt;p&gt;It was verified.&lt;br&gt;
+It was airtight.&lt;br&gt;
+It was beautiful.&lt;/p&gt;
+&lt;p&gt;The 358-year-old mystery was finally solved.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;8-the-legacy-of-a-mathematical-legend&#34;&gt;8. &lt;strong&gt;The Legacy of a Mathematical Legend&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Andrew Wiles became a global icon.&lt;br&gt;
+He received:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Abel Prize&lt;/li&gt;
+&lt;li&gt;The Fermat Prize&lt;/li&gt;
+&lt;li&gt;A knighthood&lt;/li&gt;
+&lt;li&gt;Eternal respect from mathematicians everywhere&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But the real legacy?&lt;/p&gt;
+&lt;h3 id=&#34;fermats-last-theorem-wasnt-just-solved&#34;&gt;Fermat’s Last Theorem wasn’t just solved.
+&lt;/h3&gt;&lt;p&gt;It opened new doors in number theory, geometry, and algebra.&lt;/p&gt;
+&lt;p&gt;The solution became more important than the problem.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conclusion-a-tale-of-genius-obsession--destiny&#34;&gt;Conclusion: A Tale of Genius, Obsession &amp;amp; Destiny
+&lt;/h2&gt;&lt;p&gt;Fermat’s Last Theorem is more than a math problem.&lt;br&gt;
+It’s a &lt;strong&gt;human story&lt;/strong&gt;—&lt;br&gt;
+of curiosity, failure, perseverance, and triumph.&lt;/p&gt;
+&lt;p&gt;It teaches us:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Some mysteries take centuries&lt;/li&gt;
+&lt;li&gt;Genius is nothing without patience&lt;/li&gt;
+&lt;li&gt;And sometimes, a childhood dream can change the world&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Andrew Wiles didn’t just solve a theorem—&lt;br&gt;
+&lt;strong&gt;he fulfilled a prophecy written in a book margin 358 years earlier.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Would you like a similar storytelling blog on &lt;strong&gt;Gödel’s Incompleteness Theorems&lt;/strong&gt;, &lt;strong&gt;Prime Numbers&lt;/strong&gt;, or &lt;strong&gt;Hilbert’s Problems&lt;/strong&gt;?&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

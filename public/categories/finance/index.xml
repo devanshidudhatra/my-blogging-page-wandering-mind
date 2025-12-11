@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Finance on The Wandering Mind</title>
+        <link>http://localhost:1313/categories/finance/</link>
+        <description>Recent content in Finance on The Wandering Mind</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>© 2025 Devanshi. All Rights Reserved</copyright>
+        <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/finance/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fibonacci Sequence Explained: From Rabbits to Stock Markets</title>
+        <link>http://localhost:1313/post/fibo/</link>
+        <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/fibo/</guid>
+        <description>&lt;img src="http://localhost:1313/fibonacci-sequence.jpg" alt="Featured image of post Fibonacci Sequence Explained: From Rabbits to Stock Markets" /&gt;&lt;h2 id=&#34;fibonacci-sequence-explained-from-rabbits-to-stock-markets&#34;&gt;&lt;strong&gt;Fibonacci Sequence Explained: From Rabbits to Stock Markets&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;A simple question about rabbits in the 13th century led to one of the most beautiful and mysterious patterns in mathematics—
+a sequence that appears in &lt;strong&gt;nature, art, architecture, galaxies, hurricanes&lt;/strong&gt;, and even &lt;strong&gt;stock market charts&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This is the story of the &lt;strong&gt;Fibonacci Sequence&lt;/strong&gt;—the pattern that seems to write itself into the universe.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-the-origins-leonardo-fibonacci-and-his-rabbit-puzzle&#34;&gt;&lt;strong&gt;1. The Origins: Leonardo Fibonacci and His Rabbit Puzzle&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;In 1202, the Italian mathematician &lt;strong&gt;Leonardo Fibonacci&lt;/strong&gt; published a book called &lt;em&gt;Liber Abaci&lt;/em&gt;.
+Inside it was an innocent-looking problem:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;If a pair of rabbits reproduces every month, and their offspring also begin reproducing after two months, how many rabbits will there be after one year?&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When Fibonacci solved it, he got the now-famous sequence:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1, 1, 2, 3, 5, 8, 13, 21, 34, …&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Each number is the &lt;strong&gt;sum of the previous two&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;A simple rule.
+A universal pattern.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-the-magic-of-the-ratio-the-golden-number&#34;&gt;&lt;strong&gt;2. The Magic of the Ratio: The Golden Number&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;As the sequence grows, the ratio between two consecutive numbers approaches a constant:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.618033988…&lt;/strong&gt;
+known as &lt;strong&gt;Phi (Φ)&lt;/strong&gt; or the &lt;strong&gt;Golden Ratio&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This ratio appears everywhere:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Human body proportions&lt;/li&gt;
+&lt;li&gt;Ancient temples and sculptures&lt;/li&gt;
+&lt;li&gt;Spiral shapes in nature&lt;/li&gt;
+&lt;li&gt;DNA molecules&lt;/li&gt;
+&lt;li&gt;Seashells and pinecones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nature seems to love Fibonacci.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;3-fibonacci-in-nature-the-universes-hidden-blueprint&#34;&gt;&lt;strong&gt;3. Fibonacci in Nature: The Universe’s Hidden Blueprint&lt;/strong&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;spiral-patterns&#34;&gt;&lt;strong&gt;Spiral Patterns&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Look around:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sunflower seeds spiral in Fibonacci numbers&lt;/li&gt;
+&lt;li&gt;Pinecones have 8 and 13 spirals&lt;/li&gt;
+&lt;li&gt;Hurricanes follow a Fibonacci curve&lt;/li&gt;
+&lt;li&gt;Galaxies swirl in golden spirals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;plant-growth&#34;&gt;&lt;strong&gt;Plant Growth&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Leaves grow around stems at Fibonacci angles to maximize sunlight.&lt;/p&gt;
+&lt;p&gt;Nature uses this sequence as a &lt;strong&gt;perfect efficiency tool&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;4-fibonacci-in-art-music-and-architecture&#34;&gt;&lt;strong&gt;4. Fibonacci in Art, Music, and Architecture&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Artists and builders used Fibonacci patterns long before they knew the math.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;Pyramids of Egypt&lt;/strong&gt; reflect golden proportions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Da Vinci&lt;/strong&gt; used the Fibonacci ratio in the &lt;em&gt;Vitruvian Man&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Classical music compositions mirror Fibonacci lengths&lt;/li&gt;
+&lt;li&gt;Renaissance paintings align compositions using Φ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Beauty often follows mathematical harmony.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;5-fibonacci-and-the-stock-market-the-surprising-connection&#34;&gt;&lt;strong&gt;5. Fibonacci and the Stock Market: The Surprising Connection&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Traders noticed something strange—
+market prices often move in &lt;strong&gt;Fibonacci patterns&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;fibonacci-retracements-236-382-618&#34;&gt;&lt;strong&gt;Fibonacci Retracements (23.6%, 38.2%, 61.8%)&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;These percentages—derived from the sequence—appear during:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Market corrections&lt;/li&gt;
+&lt;li&gt;Trend reversals&lt;/li&gt;
+&lt;li&gt;Support and resistance levels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fibonacci-extensions&#34;&gt;&lt;strong&gt;Fibonacci Extensions&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Used to predict future price targets.&lt;/p&gt;
+&lt;p&gt;Why does it work?&lt;/p&gt;
+&lt;p&gt;Because &lt;strong&gt;human behavior&lt;/strong&gt;—fear, greed, herd psychology—creates natural patterns.
+And those patterns often follow Fibonacci ratios.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;6-why-are-humans-obsessed-with-this-sequence&#34;&gt;&lt;strong&gt;6. Why Are Humans Obsessed with This Sequence?&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Because Fibonacci represents:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Growth&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Balance&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A natural order&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beauty and symmetry&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is a universal language that quietly governs structures around us.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;7-fibonacci-in-technology-and-algorithms&#34;&gt;&lt;strong&gt;7. Fibonacci in Technology and Algorithms&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Modern computing uses the sequence in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data structures&lt;/li&gt;
+&lt;li&gt;Search algorithms&lt;/li&gt;
+&lt;li&gt;Computer graphics&lt;/li&gt;
+&lt;li&gt;Cryptography&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A 13th-century rabbit puzzle powers 21st-century machines.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;8-the-spiritual-and-philosophical-side&#34;&gt;&lt;strong&gt;8. The Spiritual and Philosophical Side&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;The Golden Ratio has long been linked with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Harmony&lt;/li&gt;
+&lt;li&gt;Divine proportion&lt;/li&gt;
+&lt;li&gt;Cosmic patterns&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For many cultures, it represents &lt;strong&gt;the mathematics of creation&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;9-why-the-fibonacci-sequence-feels-magical&#34;&gt;&lt;strong&gt;9. Why the Fibonacci Sequence Feels Magical&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Because it connects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ancient math and modern finance&lt;/li&gt;
+&lt;li&gt;Nature and markets&lt;/li&gt;
+&lt;li&gt;Beauty and logic&lt;/li&gt;
+&lt;li&gt;Chaos and order&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is the bridge between structure and mystery.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;10-conclusion-a-pattern-that-lives-everywhere&#34;&gt;&lt;strong&gt;10. Conclusion: A Pattern That Lives Everywhere&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;The Fibonacci Sequence is not just a list of numbers.
+It is a story—of growth, nature, beauty, and human curiosity.&lt;/p&gt;
+&lt;p&gt;From &lt;strong&gt;rabbits in medieval Italy&lt;/strong&gt;
+to &lt;strong&gt;charts on Wall Street&lt;/strong&gt;,
+this sequence continues to reveal how deeply mathematics is woven into life.&lt;/p&gt;
+&lt;p&gt;Next time you see a spiral, a flower, or a trend line—
+remember, the universe may be whispering in Fibonacci.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
